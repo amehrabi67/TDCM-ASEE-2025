@@ -64,4 +64,5 @@ The **TDCM** framework models changes in mastery status between pre- and post-te
 
 ## Citation
 
-Mehrabi, A., & Morphew, J. W. (2025). Uncovering the cognitive roots of misconceptions in physics education for engineering students through transitional diagnostic models. 2025 Annual Conference of American Society of Engineering Education, Canada.
+Mehrabi, A., & Morphew, J. W. (2025). Uncovering the cognitive roots of misconceptions in physics education for engineering students through transitional diagnostic models. 2025 Annual Conference of American Society of Engineering Education, Canada. 
+Doi for code: 10.13140/RG.2.2.24540.30080
